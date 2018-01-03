@@ -1,0 +1,2 @@
+# TenNews
+MacOS News Collection
